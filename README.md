@@ -3,7 +3,7 @@
 Project in React + Typescript. Doing IMC calculator
 
 
-### Intalation
+### Instalation
 - `npm install`
 
 ### to start
